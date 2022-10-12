@@ -10,4 +10,14 @@ body {
    h2 {
      font-size: 2.25rem;
    }
-   
+  
+   button {
+  color: rgb(118, 7, 152);
+    font-family: 'Times New Roman', Times, serif;
+  font-weight: 600;
+  font-size: 1rem;
+  border: solid 2px black;
+}
+
+button:hover {
+  background-color:  blueviolet;
