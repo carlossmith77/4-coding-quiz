@@ -1,0 +1,94 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 3.5rem;
+  }
+  
+  h2 {
+    font-size: 2.25rem;
+  }
+  
+  button {
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 1rem;
+    border: solid 2px black;
+  }
+  
+  button:hover {
+    background-color: darkgray;
+  }
+  
+  /* front page */
+  .high-score {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    color: rgb(109, 109, 109);
+  }
+  
+  #main-box {
+    min-height: 35vh;
+    text-align: center;
+  }
+  
+  #start-button {
+    width: 30vmin;
+    height: 30px;
+  }
+  
+  /* answer-buttons */
+  .custom-button {
+    display: block;
+    margin: 20px auto;
+    height: 30px;
+    width: 20vmax;
+  }
+  
+  /* results page elements */
+  input {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    border-top: 0px;
+    border-right: 0px;
+    border-bottom: solid 1px black;
+    border-left: 0px;
+  }
+  
+  h5 {
+    margin: 10px auto;
+    font-size: 1rem;
+  }
+  .result-true {
+    display: inline-block;
+    margin: 5px 0px;
+    padding: 10px 0px;
+    width: 60vmin;
+    background-color: rgb(190, 255, 190);
+  }
+  
+  .result-false {
+    display: inline-block;
+    margin: 5px 0px;
+    padding: 10px 0px;
+    width: 60vmin;
+    background-color: rgb(255, 195, 195);
+  }
+  #save-button {
+    display: block;
+    margin: 25px auto 25px auto;
+    width: 30vmin;
+    min-height: 40px;
+  }
+  
+  #try-again-button {
+    display: block;
+    margin: 25px auto;
+    width: 30vmin;
+    height: 40px;
+    margin-bottom: 50px;
+  }
+  

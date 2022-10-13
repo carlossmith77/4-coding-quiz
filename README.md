@@ -1,1 +1,2 @@
 # web-api-assignment
+This is a coding challenge quiz meant to test you knowledge of certain things in comp-sci. it is a timed quiz that can keep track of high scores my using ur machines internal storage. you read the qusetion answer it and you will move to the next question, you will know your score and what questions you got right or wrong at the end.
